@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832424689557",
+    "project_id": "demonotifications-3dc3f",
+    "storage_bucket": "demonotifications-3dc3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832424689557:android:e32f3429f60d14145dc09c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGNjUKLAvBdkFJuuct0GYij9yCTonpYzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
